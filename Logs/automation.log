@@ -1,0 +1,156 @@
+
+09/21/2022 10:07:26 PM: INFO: ***** Started *****
+09/21/2022 10:07:26 PM: INFO: ***** Verifying Home page title *****
+09/21/2022 10:07:29 PM: INFO: ***** Home page title test passed *****
+09/21/2022 10:07:30 PM: INFO: ***** Verifying Dashboard title *****
+09/21/2022 10:07:38 PM: INFO: ***** Dashboard title test passed *****
+09/21/2022 10:20:47 PM: INFO: ***** Started *****
+09/21/2022 10:20:47 PM: INFO: ***** Verifying Home page title *****
+09/21/2022 10:20:51 PM: INFO: ***** Home page title test passed *****
+09/21/2022 10:20:52 PM: INFO: ***** Verifying Dashboard title *****
+09/21/2022 10:21:01 PM: INFO: ***** Dashboard title test passed *****
+09/21/2022 10:26:26 PM: INFO: ***** Started *****
+09/21/2022 10:26:26 PM: INFO: ***** Verifying Home page title *****
+09/21/2022 10:26:33 PM: INFO: ***** Home page title test passed *****
+09/21/2022 10:26:34 PM: INFO: ***** Verifying Dashboard title *****
+09/21/2022 10:26:42 PM: INFO: ***** Dashboard title test passed *****
+09/21/2022 10:28:33 PM: INFO: ***** Started *****
+09/21/2022 10:28:33 PM: INFO: ***** Verifying Home page title *****
+09/21/2022 10:28:38 PM: INFO: ***** Home page title test passed *****
+09/21/2022 10:28:40 PM: INFO: ***** Verifying Dashboard title *****
+09/21/2022 10:28:48 PM: INFO: ***** Dashboard title test passed *****
+09/21/2022 10:37:22 PM: INFO: ***** Started *****
+09/21/2022 10:37:22 PM: INFO: ***** Verifying Home page title *****
+09/21/2022 10:37:26 PM: INFO: ***** Home page title test passed *****
+09/21/2022 10:37:29 PM: INFO: ***** Verifying Dashboard title *****
+09/21/2022 10:37:38 PM: INFO: ***** Dashboard title test passed *****
+09/21/2022 10:46:59 PM: INFO: ***** Started *****
+09/21/2022 10:46:59 PM: INFO: ***** Verifying Home page title *****
+09/21/2022 10:47:02 PM: INFO: ***** Home page title test passed *****
+09/21/2022 10:47:04 PM: INFO: ***** Verifying Dashboard title *****
+09/21/2022 10:47:14 PM: INFO: ***** Dashboard title test passed *****
+09/21/2022 10:49:49 PM: INFO: ***** Verifying Dashboard title *****
+09/21/2022 10:49:49 PM: INFO: ***** Started *****
+09/21/2022 10:49:49 PM: INFO: ***** Verifying Home page title *****
+09/21/2022 10:49:53 PM: INFO: ***** Home page title test passed *****
+09/21/2022 10:50:00 PM: INFO: ***** Dashboard title test passed *****
+09/21/2022 11:02:15 PM: INFO: ***** Started *****
+09/21/2022 11:02:15 PM: INFO: ***** Verifying Home page title *****
+09/21/2022 11:02:15 PM: INFO: ***** Verifying Dashboard title *****
+09/21/2022 11:02:21 PM: INFO: ***** Home page title test passed *****
+09/21/2022 11:02:26 PM: INFO: ***** Dashboard title test passed *****
+09/21/2022 11:05:05 PM: INFO: ***** Started *****
+09/21/2022 11:05:05 PM: INFO: ***** Verifying Home page title *****
+09/21/2022 11:05:05 PM: INFO: ***** Verifying Dashboard title *****
+09/21/2022 11:05:09 PM: INFO: ***** Home page title test passed *****
+09/21/2022 11:05:18 PM: INFO: ***** Dashboard title test passed *****
+09/22/2022 10:31:14 AM: DEBUG: POST http://localhost:54349/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}}
+09/22/2022 10:31:14 AM: DEBUG: Starting new HTTP connection (1): localhost:54349
+09/22/2022 10:31:15 AM: DEBUG: http://localhost:54349 "POST /session HTTP/1.1" 200 790
+09/22/2022 10:31:15 AM: DEBUG: Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"105.0.5195.127","chrome":{"chromedriverVersion":"105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853})","userDataDir":"C:\\Users\\aravi\\AppData\\Local\\Temp\\scoped_dir13704_780343325"},"goog:chromeOptions":{"debuggerAddress":"localhost:54352"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:virtualAuthenticators":true},"sessionId":"acf7335fdf543a313e065a06d3a71ab2"}} | headers=HTTPHeaderDict({'Content-Length': '790', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:15 AM: DEBUG: Finished Request
+09/22/2022 10:31:15 AM: DEBUG: POST http://localhost:54349/session/acf7335fdf543a313e065a06d3a71ab2/window/maximize {}
+09/22/2022 10:31:15 AM: DEBUG: http://localhost:54349 "POST /session/acf7335fdf543a313e065a06d3a71ab2/window/maximize HTTP/1.1" 200 51
+09/22/2022 10:31:15 AM: DEBUG: Remote response: status=200 | data={"value":{"height":868,"width":1616,"x":-8,"y":-8}} | headers=HTTPHeaderDict({'Content-Length': '51', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:15 AM: DEBUG: Finished Request
+09/22/2022 10:31:15 AM: INFO: ***** Started *****
+09/22/2022 10:31:15 AM: DEBUG: ***** Verifying Home page title *****
+09/22/2022 10:31:15 AM: DEBUG: POST http://localhost:54349/session/acf7335fdf543a313e065a06d3a71ab2/url {"url": "https://admin-demo.nopcommerce.com/"}
+09/22/2022 10:31:18 AM: DEBUG: http://localhost:54349 "POST /session/acf7335fdf543a313e065a06d3a71ab2/url HTTP/1.1" 200 14
+09/22/2022 10:31:18 AM: DEBUG: Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:18 AM: DEBUG: Finished Request
+09/22/2022 10:31:18 AM: DEBUG: GET http://localhost:54349/session/acf7335fdf543a313e065a06d3a71ab2/title {}
+09/22/2022 10:31:18 AM: DEBUG: http://localhost:54349 "GET /session/acf7335fdf543a313e065a06d3a71ab2/title HTTP/1.1" 200 29
+09/22/2022 10:31:18 AM: DEBUG: Remote response: status=200 | data={"value":"Your store. Login"} | headers=HTTPHeaderDict({'Content-Length': '29', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:18 AM: DEBUG: Finished Request
+09/22/2022 10:31:18 AM: DEBUG: DELETE http://localhost:54349/session/acf7335fdf543a313e065a06d3a71ab2/window {}
+09/22/2022 10:31:18 AM: DEBUG: http://localhost:54349 "DELETE /session/acf7335fdf543a313e065a06d3a71ab2/window HTTP/1.1" 200 12
+09/22/2022 10:31:18 AM: DEBUG: Remote response: status=200 | data={"value":[]} | headers=HTTPHeaderDict({'Content-Length': '12', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:18 AM: DEBUG: Finished Request
+09/22/2022 10:31:18 AM: INFO: ***** Home page title test passed *****
+09/22/2022 10:31:19 AM: DEBUG: POST http://localhost:54364/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}}
+09/22/2022 10:31:19 AM: DEBUG: Starting new HTTP connection (1): localhost:54364
+09/22/2022 10:31:19 AM: DEBUG: http://localhost:54364 "POST /session HTTP/1.1" 200 791
+09/22/2022 10:31:19 AM: DEBUG: Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"105.0.5195.127","chrome":{"chromedriverVersion":"105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853})","userDataDir":"C:\\Users\\aravi\\AppData\\Local\\Temp\\scoped_dir10560_1267711508"},"goog:chromeOptions":{"debuggerAddress":"localhost:54367"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:virtualAuthenticators":true},"sessionId":"643648aae18b912b8faac550db44b0ee"}} | headers=HTTPHeaderDict({'Content-Length': '791', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:19 AM: DEBUG: Finished Request
+09/22/2022 10:31:19 AM: DEBUG: POST http://localhost:54364/session/643648aae18b912b8faac550db44b0ee/window/maximize {}
+09/22/2022 10:31:19 AM: DEBUG: http://localhost:54364 "POST /session/643648aae18b912b8faac550db44b0ee/window/maximize HTTP/1.1" 200 51
+09/22/2022 10:31:19 AM: DEBUG: Remote response: status=200 | data={"value":{"height":868,"width":1616,"x":-8,"y":-8}} | headers=HTTPHeaderDict({'Content-Length': '51', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:19 AM: DEBUG: Finished Request
+09/22/2022 10:31:19 AM: INFO: ***** Verifying Dashboard title *****
+09/22/2022 10:31:19 AM: DEBUG: POST http://localhost:54364/session/643648aae18b912b8faac550db44b0ee/url {"url": "https://admin-demo.nopcommerce.com/"}
+09/22/2022 10:31:23 AM: DEBUG: http://localhost:54364 "POST /session/643648aae18b912b8faac550db44b0ee/url HTTP/1.1" 200 14
+09/22/2022 10:31:23 AM: DEBUG: Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:23 AM: DEBUG: Finished Request
+09/22/2022 10:31:23 AM: DEBUG: POST http://localhost:54364/session/643648aae18b912b8faac550db44b0ee/element {"using": "css selector", "value": "[id=\"Email\"]"}
+09/22/2022 10:31:23 AM: DEBUG: http://localhost:54364 "POST /session/643648aae18b912b8faac550db44b0ee/element HTTP/1.1" 200 88
+09/22/2022 10:31:23 AM: DEBUG: Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f49de778-40a3-42b4-ab01-ee71b079b781"}} | headers=HTTPHeaderDict({'Content-Length': '88', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:23 AM: DEBUG: Finished Request
+09/22/2022 10:31:23 AM: DEBUG: POST http://localhost:54364/session/643648aae18b912b8faac550db44b0ee/element/f49de778-40a3-42b4-ab01-ee71b079b781/clear {"id": "f49de778-40a3-42b4-ab01-ee71b079b781"}
+09/22/2022 10:31:23 AM: DEBUG: http://localhost:54364 "POST /session/643648aae18b912b8faac550db44b0ee/element/f49de778-40a3-42b4-ab01-ee71b079b781/clear HTTP/1.1" 200 14
+09/22/2022 10:31:23 AM: DEBUG: Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:23 AM: DEBUG: Finished Request
+09/22/2022 10:31:23 AM: DEBUG: POST http://localhost:54364/session/643648aae18b912b8faac550db44b0ee/element {"using": "css selector", "value": "[id=\"Email\"]"}
+09/22/2022 10:31:23 AM: DEBUG: http://localhost:54364 "POST /session/643648aae18b912b8faac550db44b0ee/element HTTP/1.1" 200 88
+09/22/2022 10:31:23 AM: DEBUG: Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f49de778-40a3-42b4-ab01-ee71b079b781"}} | headers=HTTPHeaderDict({'Content-Length': '88', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:23 AM: DEBUG: Finished Request
+09/22/2022 10:31:23 AM: DEBUG: POST http://localhost:54364/session/643648aae18b912b8faac550db44b0ee/element/f49de778-40a3-42b4-ab01-ee71b079b781/value {"text": "admin@yourstore.com", "value": ["a", "d", "m", "i", "n", "@", "y", "o", "u", "r", "s", "t", "o", "r", "e", ".", "c", "o", "m"], "id": "f49de778-40a3-42b4-ab01-ee71b079b781"}
+09/22/2022 10:31:23 AM: DEBUG: http://localhost:54364 "POST /session/643648aae18b912b8faac550db44b0ee/element/f49de778-40a3-42b4-ab01-ee71b079b781/value HTTP/1.1" 200 14
+09/22/2022 10:31:23 AM: DEBUG: Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:23 AM: DEBUG: Finished Request
+09/22/2022 10:31:23 AM: DEBUG: POST http://localhost:54364/session/643648aae18b912b8faac550db44b0ee/element {"using": "css selector", "value": "[id=\"Password\"]"}
+09/22/2022 10:31:23 AM: DEBUG: http://localhost:54364 "POST /session/643648aae18b912b8faac550db44b0ee/element HTTP/1.1" 200 88
+09/22/2022 10:31:23 AM: DEBUG: Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"91ea2083-6be6-4724-81ae-c47070b3ad6a"}} | headers=HTTPHeaderDict({'Content-Length': '88', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:23 AM: DEBUG: Finished Request
+09/22/2022 10:31:23 AM: DEBUG: POST http://localhost:54364/session/643648aae18b912b8faac550db44b0ee/element/91ea2083-6be6-4724-81ae-c47070b3ad6a/clear {"id": "91ea2083-6be6-4724-81ae-c47070b3ad6a"}
+09/22/2022 10:31:23 AM: DEBUG: http://localhost:54364 "POST /session/643648aae18b912b8faac550db44b0ee/element/91ea2083-6be6-4724-81ae-c47070b3ad6a/clear HTTP/1.1" 200 14
+09/22/2022 10:31:23 AM: DEBUG: Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:23 AM: DEBUG: Finished Request
+09/22/2022 10:31:23 AM: DEBUG: POST http://localhost:54364/session/643648aae18b912b8faac550db44b0ee/element {"using": "css selector", "value": "[id=\"Password\"]"}
+09/22/2022 10:31:23 AM: DEBUG: http://localhost:54364 "POST /session/643648aae18b912b8faac550db44b0ee/element HTTP/1.1" 200 88
+09/22/2022 10:31:23 AM: DEBUG: Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"91ea2083-6be6-4724-81ae-c47070b3ad6a"}} | headers=HTTPHeaderDict({'Content-Length': '88', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:23 AM: DEBUG: Finished Request
+09/22/2022 10:31:23 AM: DEBUG: POST http://localhost:54364/session/643648aae18b912b8faac550db44b0ee/element/91ea2083-6be6-4724-81ae-c47070b3ad6a/value {"text": "admin", "value": ["a", "d", "m", "i", "n"], "id": "91ea2083-6be6-4724-81ae-c47070b3ad6a"}
+09/22/2022 10:31:23 AM: DEBUG: http://localhost:54364 "POST /session/643648aae18b912b8faac550db44b0ee/element/91ea2083-6be6-4724-81ae-c47070b3ad6a/value HTTP/1.1" 200 14
+09/22/2022 10:31:23 AM: DEBUG: Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:23 AM: DEBUG: Finished Request
+09/22/2022 10:31:23 AM: DEBUG: POST http://localhost:54364/session/643648aae18b912b8faac550db44b0ee/element {"using": "xpath", "value": "//button[normalize-space()='Log in']"}
+09/22/2022 10:31:23 AM: DEBUG: http://localhost:54364 "POST /session/643648aae18b912b8faac550db44b0ee/element HTTP/1.1" 200 88
+09/22/2022 10:31:23 AM: DEBUG: Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f5bb1b48-68bf-4ba9-965b-7d2d436a2354"}} | headers=HTTPHeaderDict({'Content-Length': '88', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:23 AM: DEBUG: Finished Request
+09/22/2022 10:31:23 AM: DEBUG: POST http://localhost:54364/session/643648aae18b912b8faac550db44b0ee/element/f5bb1b48-68bf-4ba9-965b-7d2d436a2354/click {"id": "f5bb1b48-68bf-4ba9-965b-7d2d436a2354"}
+09/22/2022 10:31:26 AM: DEBUG: http://localhost:54364 "POST /session/643648aae18b912b8faac550db44b0ee/element/f5bb1b48-68bf-4ba9-965b-7d2d436a2354/click HTTP/1.1" 200 14
+09/22/2022 10:31:26 AM: DEBUG: Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:26 AM: DEBUG: Finished Request
+09/22/2022 10:31:26 AM: DEBUG: GET http://localhost:54364/session/643648aae18b912b8faac550db44b0ee/title {}
+09/22/2022 10:31:26 AM: DEBUG: http://localhost:54364 "GET /session/643648aae18b912b8faac550db44b0ee/title HTTP/1.1" 200 50
+09/22/2022 10:31:26 AM: DEBUG: Remote response: status=200 | data={"value":"Dashboard / nopCommerce administration"} | headers=HTTPHeaderDict({'Content-Length': '50', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:26 AM: DEBUG: Finished Request
+09/22/2022 10:31:26 AM: DEBUG: DELETE http://localhost:54364/session/643648aae18b912b8faac550db44b0ee/window {}
+09/22/2022 10:31:29 AM: DEBUG: http://localhost:54364 "DELETE /session/643648aae18b912b8faac550db44b0ee/window HTTP/1.1" 200 12
+09/22/2022 10:31:29 AM: DEBUG: Remote response: status=200 | data={"value":[]} | headers=HTTPHeaderDict({'Content-Length': '12', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+09/22/2022 10:31:29 AM: DEBUG: Finished Request
+09/22/2022 10:31:29 AM: INFO: ***** Dashboard title test passed *****
+09/22/2022 10:44:41 AM: INFO: ***** Verifying Dashboard title *****
+09/22/2022 10:44:41 AM: INFO: ***** Started *****
+09/22/2022 10:44:41 AM: INFO: ***** Verifying Home page title *****
+09/22/2022 10:44:45 AM: INFO: ***** Home page title test passed *****
+09/22/2022 10:44:49 AM: INFO: ***** Dashboard title test passed *****
+09/22/2022 12:30:20 PM: INFO: ***** Test_002_DDT_Login *****
+09/22/2022 12:30:20 PM: INFO: ***** Verifying Dashboard title DDT *****
+09/22/2022 12:30:32 PM: INFO: ***** Passed *****
+09/22/2022 12:30:40 PM: ERROR: ***** Passed *****
+09/22/2022 12:32:57 PM: INFO: ***** Test_002_DDT_Login *****
+09/22/2022 12:32:57 PM: INFO: ***** Verifying Dashboard title DDT *****
+09/22/2022 12:33:11 PM: INFO: ***** Passed *****
+09/22/2022 12:33:18 PM: ERROR: ***** Passed *****
+09/22/2022 12:33:23 PM: ERROR: ***** Passed *****
+09/22/2022 12:33:31 PM: ERROR: ***** Failed *****
+09/22/2022 12:33:31 PM: INFO: ***** DashBoard Title DDT test case failed
+09/22/2022 12:37:31 PM: INFO: ***** Test_002_DDT_Login *****
+09/22/2022 12:37:31 PM: INFO: ***** Verifying Dashboard title DDT *****
+09/22/2022 12:37:43 PM: INFO: ***** Passed *****
+09/22/2022 12:37:50 PM: ERROR: ***** Passed *****
+09/22/2022 12:37:56 PM: ERROR: ***** Passed *****
+09/22/2022 12:38:01 PM: ERROR: ***** Passed *****
+09/22/2022 12:38:01 PM: INFO: ***** DashBoard Title DDT test case passed
