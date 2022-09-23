@@ -154,3 +154,79 @@
 09/22/2022 12:37:56 PM: ERROR: ***** Passed *****
 09/22/2022 12:38:01 PM: ERROR: ***** Passed *****
 09/22/2022 12:38:01 PM: INFO: ***** DashBoard Title DDT test case passed
+09/23/2022 09:06:04 PM: INFO: ***** Started *****
+09/23/2022 09:06:04 PM: INFO: ***** Verifying Home page title *****
+09/23/2022 09:06:07 PM: INFO: ***** Home page title test passed *****
+09/23/2022 09:06:09 PM: INFO: ***** Verifying Dashboard title *****
+09/23/2022 09:06:14 PM: INFO: ***** Dashboard title test passed *****
+09/23/2022 09:07:26 PM: INFO: ***** Test_003_AddCustomer *****
+09/23/2022 09:07:33 PM: INFO: ***** Login Successful...
+09/23/2022 09:07:33 PM: INFO: ***** Starting add customer test *****
+09/23/2022 09:08:48 PM: INFO: ***** Test_003_AddCustomer *****
+09/23/2022 09:08:54 PM: INFO: ***** Login Successful...
+09/23/2022 09:08:54 PM: INFO: ***** Starting add customer test *****
+09/23/2022 09:11:17 PM: INFO: ***** Test_003_AddCustomer *****
+09/23/2022 09:11:24 PM: INFO: ***** Login Successful...
+09/23/2022 09:11:24 PM: INFO: ***** Starting add customer test *****
+09/23/2022 09:11:33 PM: INFO: ***** Providing customer info *****
+09/23/2022 09:14:37 PM: INFO: ***** Test_003_AddCustomer *****
+09/23/2022 09:14:44 PM: INFO: ***** Login Successful...
+09/23/2022 09:14:44 PM: INFO: ***** Starting add customer test *****
+09/23/2022 09:14:52 PM: INFO: ***** Providing customer info *****
+09/23/2022 09:17:14 PM: INFO: ***** Test_003_AddCustomer *****
+09/23/2022 09:17:57 PM: INFO: ***** Login Successful...
+09/23/2022 09:17:57 PM: INFO: ***** Starting add customer test *****
+09/23/2022 09:18:08 PM: INFO: ***** Providing customer info *****
+09/23/2022 09:18:20 PM: INFO: ***** Saving customer info *****
+09/23/2022 09:18:20 PM: INFO: ***** Validating *****
+09/23/2022 09:18:20 PM: ERROR: ***** Add customer test case failed *****
+09/23/2022 09:22:31 PM: INFO: ***** Test_003_AddCustomer *****
+09/23/2022 09:22:41 PM: INFO: ***** Login Successful...
+09/23/2022 09:22:41 PM: INFO: ***** Starting add customer test *****
+09/23/2022 09:23:16 PM: INFO: ***** Providing customer info *****
+09/23/2022 09:23:30 PM: INFO: ***** Test_003_AddCustomer *****
+09/23/2022 09:23:37 PM: INFO: ***** Login Successful...
+09/23/2022 09:23:37 PM: INFO: ***** Starting add customer test *****
+09/23/2022 09:23:46 PM: INFO: ***** Providing customer info *****
+09/23/2022 09:27:09 PM: INFO: ***** Test_003_AddCustomer *****
+09/23/2022 09:27:17 PM: INFO: ***** Login Successful...
+09/23/2022 09:27:17 PM: INFO: ***** Starting add customer test *****
+09/23/2022 09:27:26 PM: INFO: ***** Providing customer info *****
+09/23/2022 09:30:36 PM: INFO: ***** Test_003_AddCustomer *****
+09/23/2022 09:30:44 PM: INFO: ***** Login Successful...
+09/23/2022 09:30:44 PM: INFO: ***** Starting add customer test *****
+09/23/2022 09:30:53 PM: INFO: ***** Providing customer info *****
+09/23/2022 09:31:07 PM: INFO: ***** Saving customer info *****
+09/23/2022 09:31:07 PM: INFO: ***** Validating *****
+09/23/2022 09:31:08 PM: ERROR: ***** Add customer test case failed *****
+09/23/2022 09:33:32 PM: INFO: ***** Test_003_AddCustomer *****
+09/23/2022 09:33:41 PM: INFO: ***** Login Successful...
+09/23/2022 09:33:41 PM: INFO: ***** Starting add customer test *****
+09/23/2022 09:33:50 PM: INFO: ***** Providing customer info *****
+09/23/2022 09:34:03 PM: INFO: ***** Saving customer info *****
+09/23/2022 09:34:03 PM: INFO: ***** Validating *****
+09/23/2022 09:34:03 PM: ERROR: ***** Add customer test case failed *****
+09/23/2022 09:34:03 PM: INFO: ***** Ending Add Customer Test Case *****
+09/23/2022 09:36:21 PM: INFO: ***** Test_003_AddCustomer *****
+09/23/2022 09:36:30 PM: INFO: ***** Login Successful...
+09/23/2022 09:36:30 PM: INFO: ***** Starting add customer test *****
+09/23/2022 09:36:40 PM: INFO: ***** Providing customer info *****
+09/23/2022 09:36:52 PM: INFO: ***** Saving customer info *****
+09/23/2022 09:36:52 PM: INFO: ***** Validating *****
+09/23/2022 09:36:52 PM: ERROR: ***** Add customer test case failed *****
+09/23/2022 09:36:52 PM: INFO: ***** Ending Add Customer Test Case *****
+09/23/2022 09:37:30 PM: INFO: ***** Test_003_AddCustomer *****
+09/23/2022 09:37:38 PM: INFO: ***** Login Successful...
+09/23/2022 09:37:38 PM: INFO: ***** Starting add customer test *****
+09/23/2022 09:37:48 PM: INFO: ***** Providing customer info *****
+09/23/2022 09:38:00 PM: INFO: ***** Saving customer info *****
+09/23/2022 09:38:00 PM: INFO: ***** Validating *****
+09/23/2022 09:38:01 PM: ERROR: ***** Add customer test case failed *****
+09/23/2022 09:38:53 PM: INFO: ***** Test_003_AddCustomer *****
+09/23/2022 09:39:00 PM: INFO: ***** Login Successful...
+09/23/2022 09:39:00 PM: INFO: ***** Starting add customer test *****
+09/23/2022 09:39:11 PM: INFO: ***** Providing customer info *****
+09/23/2022 09:39:24 PM: INFO: ***** Saving customer info *****
+09/23/2022 09:39:24 PM: INFO: ***** Validating *****
+09/23/2022 09:39:24 PM: INFO: ***** Add customer test case passed *****
+09/23/2022 09:39:24 PM: INFO: ***** Ending Add Customer Test Case *****
