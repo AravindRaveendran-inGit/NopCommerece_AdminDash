@@ -230,3 +230,11 @@
 09/23/2022 09:39:24 PM: INFO: ***** Validating *****
 09/23/2022 09:39:24 PM: INFO: ***** Add customer test case passed *****
 09/23/2022 09:39:24 PM: INFO: ***** Ending Add Customer Test Case *****
+09/24/2022 09:22:31 PM: INFO: ***** Test_003_AddCustomer *****
+09/24/2022 09:23:03 PM: INFO: ***** Login Successful...
+09/24/2022 09:23:03 PM: INFO: ***** Starting add customer test *****
+09/24/2022 09:23:17 PM: INFO: ***** Providing customer info *****
+09/24/2022 09:23:31 PM: INFO: ***** Saving customer info *****
+09/24/2022 09:23:31 PM: INFO: ***** Validating *****
+09/24/2022 09:23:31 PM: INFO: ***** Add customer test case passed *****
+09/24/2022 09:23:31 PM: INFO: ***** Ending Add Customer Test Case *****

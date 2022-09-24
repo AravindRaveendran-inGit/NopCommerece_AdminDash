@@ -1,13 +1,15 @@
 import random
 import string
 import time
-
 from pageObjects.LoginPage import Login
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 from pageObjects.CustomerPage import AddCustomer
 from selenium.webdriver.common.by import By
 
+#To generate random sample emails.
+def random_generator(size=8, chars=string.ascii_lowercase + string.digits):
+    return ''.join(random.choice(chars) for x in range(size))
 class Test_003_addCustomer:
     baseURL = ReadConfig.getApplicationURL()
     useremail = ReadConfig.getUseremail()
@@ -71,8 +73,7 @@ class Test_003_addCustomer:
         self.logger.info("***** Ending Add Customer Test Case *****")
 
 
-def random_generator(size=8, chars=string.ascii_lowercase + string.digits):
-    return ''.join(random.choice(chars) for x in range(size))
+
 
 
 
